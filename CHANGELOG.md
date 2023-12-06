@@ -3,7 +3,7 @@
 ## `lit` - 2.0.0
 
 ### Major Changes
-
+- Test
 - New package serving as the main entry point for all users of Lit (including `LitElement`, `ReactiveElement`, and `lit-html`). See the [Migration Guide](https://lit.dev/docs/releases/upgrade/#update-packages-and-import-paths) for more details.
 
 ## `lit-element` - 3.0.0
